@@ -12,6 +12,7 @@
 <!-- Details of summary and classification of papers are shown in [wiki](https://github.com/zjukg/KG-LLM-Papers/wiki). -->
 
 ## 🔔 News
+- **`2026-03` Updated with new papers from 2025-2026!**
 - **`2025-06` Updated new papers!**
 - **`2025-02` Our latest survey [Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872) is available on ArXiv!**
 - **`2024-06` We create this repository to maintain a paper list on `Trustworthiness of the LLM Retrieval Augmented Generation paradigm`.**
@@ -43,6 +44,10 @@
 
 ### Surveys
 #### RAG
+- \[[arxiv](https://arxiv.org/abs/2507.18910)\] A Systematic Review of Key Retrieval-Augmented Generation (RAG) Systems: Progress, Gaps, and Future Directions. `2025.07`
+- \[[arxiv](https://arxiv.org/abs/2506.00054)\] Retrieval-Augmented Generation: A Comprehensive Survey of Architectures, Enhancements, and Robustness Frontiers. `2025.05`
+- \[[arxiv](https://arxiv.org/abs/2501.09136)\] Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG. `2025.01`
+- \[[arxiv](https://arxiv.org/abs/2510.24476)\] Mitigating Hallucination in Large Language Models (LLMs): An Application-Oriented Survey on RAG, Reasoning, and Agentic Systems. `2025.10`
 - \[[arxiv](https://arxiv.org/abs/2312.10997)\]\[[Github](https://github.com/Tongji-KGLLM/RAG-Survey)\] Retrieval-Augmented Generation for Large Language Models: A Survey. `2024.03`
 - \[[arxiv](https://arxiv.org/abs/2405.07437)\] Evaluation of Retrieval-Augmented Generation: A Survey. `2024.05`
 - \[[arxiv](https://arxiv.org/abs/2311.07914)\] Can Knowledge Graphs Reduce Hallucinations in LLMs? : A Survey. `2023.11`
@@ -62,6 +67,8 @@
 - \[[arxiv](https://arxiv.org/abs/2401.05561)\] TrustLLM: Trustworthiness in Large Language Models. `2024.09`
 
 ### Privacy 
+- \[[arxiv](https://arxiv.org/abs/2602.09319)\] Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation. `2026.02`
+- \[[arxiv](https://arxiv.org/abs/2509.20324)\] RAG Security and Privacy: Formalizing the Threat Model and Attack Surface. `2025.09`
 - \[[arxiv](https://arxiv.org/abs/2412.19291)\] RAG with Differential Privacy. `2025.01`
 - \[[arxiv](https://arxiv.org/abs/2412.04697)\] Privacy-Preserving Retrieval Augmented Generation with Differential Privacy. `2024.12`
 - \[[arxiv](https://arxiv.org/abs/2412.12775)\] RemoteRAG: A Privacy-Preserving LLM Cloud RAG Service. `2024.12`
@@ -86,6 +93,8 @@
 - \[[arxiv](https://arxiv.org/abs/2404.04287)\] CONFLARE: CONFormal LArge language model REtrieval. `2024.04`
 
 ### Robustness
+- \[[arxiv](https://arxiv.org/abs/2507.06956)\] Investigating the Robustness of Retrieval-Augmented Generation at the Query Level. `2025.07`
+- \[[arxiv](https://arxiv.org/abs/2503.21157)\] Real-Time Evaluation Models for RAG: Who Detects Hallucinations Best? `2025.04`
 - \[[RAGSynth](https://arxiv.org/abs/2505.10989)\] RAGSynth: Synthetic Data for Robust and Faithful RAG Component Optimization. `2025.05`
 - \[[ACL](https://arxiv.org/abs/2410.07176v2)\] Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models. `2025.05`
 - \[[arxiv](https://arxiv.org/abs/2502.16101)\] Worse than Zero-shot? A Fact-Checking Dataset for Evaluating the Robustness of RAG Against Misleading Retrievals. `2025.05`
@@ -104,6 +113,8 @@
 - \[[Paper](https://openreview.net/pdf?id=XwnABAdH5y)\] Trustworthy Alignment of Retrieval-Augmented Large Language Models via Reinforcement Learning. `2023.07`
 
 ### Safety 
+- \[[arxiv](https://arxiv.org/abs/2504.03957)\] Practical Poisoning Attacks against Retrieval-Augmented Generation. `2026.01`
+- \[[arxiv](https://arxiv.org/abs/2507.08862)\] RAG Safety: Exploring Knowledge Poisoning Attacks to Retrieval-Augmented Generation. `2025.07`
 - \[[arxiv](https://arxiv.org/abs/2504.18041)\] RAG LLMs are Not Safer: A Safety Analysis of Retrieval-Augmented Generation for Large Language Models. `2025.04`
 - \[[arxiv](https://openreview.net/forum?id=2aL6gcFX7q)\] Understanding Data Poisoning Attacks for RAG: Insights and Algorithms. `2025.01`
 - \[[WWW](https://openreview.net/forum?id=bwnWs4us0x#discussion)\] Traceback of Poisoned Texts in Poisoning Attacks to Retrieval-Augmented Generation. `2025.02`
