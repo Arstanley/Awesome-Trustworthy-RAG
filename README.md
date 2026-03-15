@@ -91,6 +91,7 @@
 - \[[arxiv](https://arxiv.org/pdf/2009.08553)\] Generation-Augmented Retrieval for Open-Domain Question Answering. `2021.05`
 - \[[ICML](https://arxiv.org/abs/2402.03181)\] C-RAG: Certified Generation Risks for Retrieval-Augmented Language Models. `2024.02` 
 - \[[arxiv](https://arxiv.org/abs/2404.04287)\] CONFLARE: CONFormal LArge language model REtrieval. `2024.04`
+- [[GitHub](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md)] WFGY Problem Map: Open source 16 mode failure taxonomy and debugging guide for LLM + RAG systems. `2025.08`
 
 ### Robustness
 - \[[arxiv](https://arxiv.org/abs/2507.06956)\] Investigating the Robustness of Retrieval-Augmented Generation at the Query Level. `2025.07`
