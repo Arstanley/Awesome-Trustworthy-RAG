@@ -94,6 +94,7 @@
 - \[[arxiv](https://arxiv.org/abs/2404.04287)\] CONFLARE: CONFormal LArge language model REtrieval. `2024.04`
 
 ### Robustness
+- \[[arxiv](https://arxiv.org/abs/2606.27786)\]\[[Github](https://github.com/OpenBMB/SHIFT)\] SPARK: Adaptive Parametric Knowledge Participation for Faithful Retrieval-Augmented Generation. `2026.06`
 - \[[arxiv](https://arxiv.org/abs/2507.06956)\] Investigating the Robustness of Retrieval-Augmented Generation at the Query Level. `2025.07`
 - \[[arxiv](https://arxiv.org/abs/2503.21157)\] Real-Time Evaluation Models for RAG: Who Detects Hallucinations Best? `2025.04`
 - \[[RAGSynth](https://arxiv.org/abs/2505.10989)\] RAGSynth: Synthetic Data for Robust and Faithful RAG Component Optimization. `2025.05`
@@ -101,6 +102,7 @@
 - \[[arxiv](https://arxiv.org/abs/2502.16101)\] Worse than Zero-shot? A Fact-Checking Dataset for Evaluating the Robustness of RAG Against Misleading Retrievals. `2025.05`
 - \[[arxiv](https://arxiv.org/abs/2504.04062)\] QE-RAG: A Robust Retrieval-Augmented Generation Benchmark for Query Entry Errors. `2025.04`
 - \[[arxiv](https://arxiv.org/abs/2503.05587)\] Quantifying the Robustness of Retrieval-Augmented Language Models Against Spurious Features in Grounding Data. `2025.03`
+- \[[NeurIPS](https://arxiv.org/abs/2502.15543)\]\[[Github](https://github.com/OpenBMB/ParamMute)\] ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation. `2025.02`
 - \[[arxiv](https://arxiv.org/abs/2502.11400)\] Revisiting Robust RAG: Do We Still Need Complex Robust Training in the Era of Powerful LLMs? `2025.02`
 - \[[EMNLP](https://arxiv.org/abs/2407.13998)\] RAG-QA Arena: Evaluating Domain Robustness for Long-form Retrieval Augmented Question Answering. `2024.10`
 - \[[arxiv](https://arxiv.org/abs/2410.07176)\] Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models. `2024.10`
