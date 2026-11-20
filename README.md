@@ -116,6 +116,7 @@
 ### Safety 
 - \[[EMNLP Findings](https://arxiv.org/abs/2606.13610)\]\[[Github](https://github.com/leoluolol/forge-benchmark)\] One Polluted Page Is Enough: Evaluating Web Content Pollution in LLM Recommenders. `2026.06`
 - \[[arxiv](https://arxiv.org/abs/2504.03957)\] Practical Poisoning Attacks against Retrieval-Augmented Generation. `2026.01`
+- \[[ACSAC](https://arxiv.org/abs/2511.01268)\] Rescuing the Unpoisoned: Efficient Defense against Knowledge Corruption Attacks on RAG Systems. `2025.11`
 - \[[arxiv](https://arxiv.org/abs/2507.08862)\] RAG Safety: Exploring Knowledge Poisoning Attacks to Retrieval-Augmented Generation. `2025.07`
 - \[[arxiv](https://arxiv.org/abs/2504.18041)\] RAG LLMs are Not Safer: A Safety Analysis of Retrieval-Augmented Generation for Large Language Models. `2025.04`
 - \[[arxiv](https://openreview.net/forum?id=2aL6gcFX7q)\] Understanding Data Poisoning Attacks for RAG: Insights and Algorithms. `2025.01`
